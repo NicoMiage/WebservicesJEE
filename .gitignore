@@ -21,7 +21,3 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-# Configurations folders
-WebservicesJEE/dist/gfdeploy/WebservicesJEE/WebservicesJEE-ejb_jar/META-INF/persistence.xml
-WebservicesJEE/dist/gfdeploy/WebservicesJEE/WebservicesJEE-ejb_jar/META-INF/glassfish-resources.xml
-

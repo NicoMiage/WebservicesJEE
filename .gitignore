@@ -21,3 +21,10 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
+WebservicesJEE/WebservicesJEE-ejb/dist/
+WebservicesJEE/WebservicesJEE-war/dist/
+WebservicesJEE/dist/
+WebservicesJEE/WebservicesJEE-ejb/build/
+WebservicesJEE/WebservicesJEE-war/build/
+WebservicesJEE/build/
+WebservicesJEE/WebservicesJEE/WebservicesJEE-ejb/src/conf

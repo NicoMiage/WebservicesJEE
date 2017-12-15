@@ -28,3 +28,6 @@ WebservicesJEE/WebservicesJEE-ejb/build/
 WebservicesJEE/WebservicesJEE-war/build/
 WebservicesJEE/build/
 WebservicesJEE/WebservicesJEE/WebservicesJEE-ejb/src/conf
+WebservicesJEE/WebservicesJEE-ejb/nbproject/
+WebservicesJEE/WebservicesJEE-war/nbproject/
+WebservicesJEE/nbproject/
